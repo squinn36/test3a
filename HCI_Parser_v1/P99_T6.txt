@@ -1,0 +1,18 @@
+1444044696544	20-05-2015	12:31:36	S99	P99	T6	pretask	TaskDescription	Hypoglycemia (low blood glucose levels) is a complication of Diabetes. The unit of measurement for blood glucose level is Millimoles per litre (mmol/l). In terms of this measurement how is Hypoglycemia defined in the UK?	null	
+1444044696545	20-05-2015	12:31:36	S99	P99	T6	pretask	TaskMaxAnswers	1	null	
+1444044727879	20-05-2015	12:32:07	S99	P99	T6	pretask	onAccept event -- ok pressed for Task #6	null	
+1444044727880	20-05-2015	12:32:07	S99	P99	T6	pretask	q1	1	null	
+1444044728336	20-05-2015	12:32:08	S99	P99	T6	intask	Focus	about:home	about:home	
+1444044728517	20-05-2015	12:32:08	S99	P99	T6	intask	LoadCap	about:home	about:home	
+1444044731505	20-05-2015	12:32:11	S99	P99	T6	intask	Focus	http://www.google.co.uk/search?q=%20how%20is%20Hypoglycemia%20defined%20in%20the%20UK%3F&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a&source=hp&channel=np&gfe_rd=cr&ei=dl8SVomIH4PD0wWFi7WoCw	http://www.google.co.uk/search?q=%20how%20is%20Hypoglycemia%20defined%20in%20the%20UK%3F&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a&source=hp&channel=np&gfe_rd=cr&ei=dl8SVomIH4PD0wWFi7WoCw	
+1444044731848	20-05-2015	12:32:11	S99	P99	T6	intask	LoadCap	http://www.google.co.uk/search?q=%20how%20is%20Hypoglycemia%20defined%20in%20the%20UK%3F&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a&source=hp&channel=np&gfe_rd=cr&ei=dl8SVomIH4PD0wWFi7WoCw	http://www.google.co.uk/search?q=%20how%20is%20Hypoglycemia%20defined%20in%20the%20UK%3F&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a&source=hp&channel=np&gfe_rd=cr&ei=dl8SVomIH4PD0wWFi7WoCw	
+1444044737154	20-05-2015	12:32:17	S99	P99	T6	intask	LClick	http://www.google.co.uk/url?q=http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx&sa=U&ved=0CBoQFjABahUKEwit4qLJnavIAhVMVRoKHRUUCqA&usg=AFQjCNE-J60TLZw5TQ54LMy8zJ6zlqc78Q	http://www.google.co.uk/search?q=%20how%20is%20Hypoglycemia%20defined%20in%20the%20UK%3F&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-GB:official&client=firefox-a&source=hp&channel=np&gfe_rd=cr&ei=dl8SVomIH4PD0wWFi7WoCw	
+1444044737965	20-05-2015	12:32:17	S99	P99	T6	intask	Focus	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	
+1444044738964	20-05-2015	12:32:18	S99	P99	T6	intask	LoadCap	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	
+1444044744630	20-05-2015	12:32:24	S99	P99	T6	intask	Scroll	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	
+1444044759237	20-05-2015	12:32:39	S99	P99	T6	intask	submittedAnswerURL	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	
+1444044759238	20-05-2015	12:32:39	S99	P99	T6	intask	submittedAnswerText	When your glucose (sugar) level is too low, your body doesn't have enough energy to carry out its activities.	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	
+1444044761197	20-05-2015	12:32:41	S99	P99	T6	intask	CloseWindow	http://www.nhs.uk/conditions/hypoglycaemia/Pages/Introduction.aspx	null	
+1444044761197	20-05-2015	12:32:41	S99	P99	T6	intask	Info	Currently open windows and tabs are logged below, but may not fully reflect most recent changes.	null	
+1444044765175	20-05-2015	12:32:45	S99	P99	T6	posttask	onAccept event -- ok pressed for Task #6	null	
+1444044765176	20-05-2015	12:32:45	S99	P99	T6	posttask	q1	4	null	
